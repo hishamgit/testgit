@@ -1,2 +1,0 @@
-sample file for feature 1
-update here at master
